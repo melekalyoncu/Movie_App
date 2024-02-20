@@ -1,8 +1,6 @@
 # filmler_uygulamasi
 
-A new Flutter project.
-
-Filmleri kategorize ettiğim bir uygulama
+Filmleri Kategorize ettiğim bir uygulama
 ------------------------------------------------------------------------------------------------------------
  # Ekran 1
 ![Ekran 1](/resimler/ekran1.png)
