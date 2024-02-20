@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Filmleri kategorize ettiğim bir uygulama
+------------------------------------------------------------------------------------------------------------
+![ekran1](https://github.com/melekalyoncu/Movie_App/assets/129908402/f5a227f1-d225-4dea-a7e7-8278e890e006)
+Ekran 1
+------------------------------------------------------------------------------------------------------------
+![ekran2](https://github.com/melekalyoncu/Movie_App/assets/129908402/75f2fdca-1002-4545-ae10-4622710536ba)
+Ekran 2
+------------------------------------------------------------------------------------------------------------
+![ekran3](https://github.com/melekalyoncu/Movie_App/assets/129908402/0ad55987-bc63-4d68-be61-01a00ebf5cad)
+Ekran 3
+------------------------------------------------------------------------------------------------------------
